@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.youth.banner.Banner
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+    </com.youth.banner.Banner>
+    <com.example.yuan.login_disanfang.custom.CustomViewTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我有一个小毛驴，我从来也不骑，有一天我心血来潮，骑着去赶集，我手里拿着小皮鞭，我心里正得意，不知怎么哗啦啦啦啦，我摔了一身泥。"
+        android:textSize="40dp"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:textColor="@color/colorPrimary"
+        />
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/pull"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.handmark.pulltorefresh.library.PullToRefreshListView>
+</LinearLayout>
