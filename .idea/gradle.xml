@@ -11,7 +11,11 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/login_disanfang" />
+            <option value="$PROJECT_DIR$/okhttp01" />
             <option value="$PROJECT_DIR$/paomadeng" />
+            <option value="$PROJECT_DIR$/reciview02" />
+            <option value="$PROJECT_DIR$/requestview" />
+            <option value="$PROJECT_DIR$/week3_lianxi" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

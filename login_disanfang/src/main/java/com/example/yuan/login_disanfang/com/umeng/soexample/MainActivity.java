@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity implements IView,View.OnClic
         findViewById(R.id.button_zhuce).setOnClickListener(this);
         findViewById(R.id.image_fenxiang).setOnClickListener(this);
         findViewById(R.id.image_qq).setOnClickListener(this);
+
         editTextpwd.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {

@@ -1,1 +1,1 @@
-include ':app', ':paomadeng', ':login_disanfang', ':library'
+include ':app', ':paomadeng', ':login_disanfang', ':library', ':okhttp01', ':requestview', ':reciview02', ':week3_lianxi'
